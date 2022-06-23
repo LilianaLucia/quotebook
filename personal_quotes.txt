@@ -1,4 +1,8 @@
 Out of the mountain of despair a stone of hope - Marin Lutter king
 
+<<<<<<< HEAD
 
 Live long and prosper - Spok
+=======
+I like blue - Jay
+>>>>>>> personal_quotes
